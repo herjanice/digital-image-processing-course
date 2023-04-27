@@ -1,5 +1,7 @@
 # Homework 1
 
+Results and finding of this homework could be found [here](https://github.com/herjanice/digital-image-processing-course/blob/main/hw1/HW_1_Report.pdf)
+
 ## Problem 0: Warm Up
 Goal: getting familiar with fundamentail operations
 
