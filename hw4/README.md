@@ -1,4 +1,5 @@
 # Homework 4
+Results and findings of this homework could be found [here](https://github.com/herjanice/digital-image-processing-course/blob/main/hw4/HW_4_Report.pdf)
 
 ## Problem 1: Digital Halftoning
 Goal: Perform various image processing task such as mage filtering, edge detection, morphological operations, feature extraction, segmentation, and color manipulation
